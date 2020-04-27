@@ -25,7 +25,7 @@ Compilation
 4) You'll find the built jar in the `/build/libs/` folder.
 
 Extra steps if you want to setup a C&B development environment:
-5) Open the `settings.gradle` file and enter the path to the built C&B jar to it. It should look similar to this after you're done:
+5) Create an empty file called `settings.gradle` file and enter the path to the built C&B jar to it as key "gradle.ext.buildJar". The file should contain something similar to this:
 ```gradle.ext.buildJar = "C:\\Chisels-and-Bits-2\\build\\libs\\chiselsandbits2-0.5.1a.jar"```
 6) Run `genIntellijRuns` or `genEclipseRuns` depending on your IDE used.
 7) Run `runClient` to start the mod.
