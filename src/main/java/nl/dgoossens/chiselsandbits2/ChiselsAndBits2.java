@@ -42,6 +42,9 @@ public class ChiselsAndBits2 {
     private ModKeybindings KEYBINDINGS;
 
     public ChiselsAndBits2() {
+        //Temporary solution until FML stops being a PITA
+        ClassLoadEnforcer.loadAllClasses();
+
         instance = this;
         API = new ChiselsAndBitsAPIImpl();
         CONFIGURATION = new ModConfiguration();
