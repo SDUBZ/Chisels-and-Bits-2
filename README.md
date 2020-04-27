@@ -15,7 +15,7 @@ If you are interested in the current progress you can clone the 1.15.x branch, b
 
 Download
 --------------
-Some old snapshot versions for Minecraft 1.14 are available on the [GitHub releases page](https://github.com/Aeltumn/Chisels-and-Bits-2/releases). The 1.15 version is not done yet.
+Some old versions for Minecraft 1.14 are available on the [GitHub releases page](https://github.com/Aeltumn/Chisels-and-Bits-2/releases). These versions are not representitive of the final version of Chisels & Bits 2 as many features are missing or incomplete and textures used are not the final versions yet.
 
 Differences from the original mod
 --------------
